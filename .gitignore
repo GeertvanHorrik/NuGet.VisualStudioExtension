@@ -188,3 +188,6 @@ UpgradeLog*.htm
 
 # Microsoft Fakes
 FakesAssemblies/
+
+#GhostDoc
+*.sln.GhostDoc.xml
